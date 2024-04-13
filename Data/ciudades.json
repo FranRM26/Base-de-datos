@@ -1,0 +1,14 @@
+db.departamentos.insertMany(
+[
+{
+   nombre: "Contabilidad",
+   empleados: 45,
+   responsable: "Rosa",
+   edificio: "A"
+ },
+ {
+   nombre: "Almacen",
+   empleados: 5,
+ }
+ ]
+ )
